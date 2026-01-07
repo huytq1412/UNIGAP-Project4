@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+.env
+
+# PyCharm specific settings
+.idea/
+
+# Python cache
+__pycache__/
+
+# Files created
+BeeMovies_Executive_Summary.txt
