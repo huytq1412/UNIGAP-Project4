@@ -46,7 +46,7 @@ Dựa trên quá trình phân tích, dưới đây là tóm tắt các đề xu�
   - *Diễn viên:* Vijay Sethupathi, Taapsee Pannu (cho thị trường Ấn Độ), Laura Dern (cho dòng phim Drama).
 - **Đối tác:** Marvel Studios (Doanh thu) hoặc Dream Warrior Pictures (Chất lượng nghệ thuật).
 
-**Đọc báo cáo chi tiết tại đây:** [BeeMovies_Summary.pdf](./BeeMovies_Summary.pdf)
+**Đọc báo cáo chi tiết tại đây:** [BeeMovies_Executive_Summary.pdf](BeeMovies_Executive_Summary.pdf)
 
 ## 🚀 Hướng dẫn chạy (How to Run)
 
