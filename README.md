@@ -1,4 +1,4 @@
-# Hệ Thống Báo Cáo Động & tối wu Hóa PostgreSQL cho dữ liệu eCommerce
+# Hệ Thống Báo Cáo Động & tối ưu hóa PostgreSQL cho dữ liệu eCommerce
 
 ![SQL](https://img.shields.io/badge/Language-SQL-orange) ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue) ![Status](https://img.shields.io/badge/Status-Completed-green)
 
@@ -10,7 +10,7 @@ Ngoài ra, dự án còn xây dựng một **Hệ thống Báo cáo Động (Dyn
 
 ---
 
-Cấu trúc của Project4
+Cấu trúc của Project4 
 
 ```
 Project4/
